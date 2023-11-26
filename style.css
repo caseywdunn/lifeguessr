@@ -3,7 +3,7 @@ body {
     color: white; /* Light text color for contrast */
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    padding: 20px;
 }
 
 #game-interface {
