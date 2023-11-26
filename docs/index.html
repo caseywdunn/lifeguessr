@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>lifeguessr</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="landing-page">
+        <h1>Welcome to LifeGuessr - the Organism Identification Game</h1>
+        <p>Instructions: Click Start Game to begin. On each page, you will be presented with a video. Once you have guessed what it is, click Reveal to check your guess. Click Next to go to the next video.</p>
+		<p>About: Written by <a href="https://dunnlab.org">Casey Dunn</a> for the Yale EEB255 Invertebrate Zoology course. A project of the <a href="https://peabody.yale.edu/explore/collections/invertebrate-zoology">Division of invertebrate Zoology</a> in the Yale Peabody Museum of Natural History.</p>
+        <button id="start-button">Start Game</button>
+    </div>
+
+	<div id="game-interface" style="display:none;">
+		<div id="video-overlay" style="display:none;">Loading...</div>
+		<iframe id="video-frame" width="800" height="450" src="" frameborder="0" allowfullscreen></iframe>
+			<button id="reveal-button">Reveal Info</button>
+        <button id="next-button">Next</button>
+        <div id="info-panel" style="display:none;">
+			<p id="organism-info"></p>
+			<p id="ncbi-info"></p>
+			<p id="ncbi-taxon-string-info"></p>
+			<p id="notes-info"></p>
+		</div>
+		
+	</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
