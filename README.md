@@ -1,5 +1,5 @@
 # lifeguessr
 
-A game wehre you goess organisms in videos.
+A game where you guess organisms in videos.
 
 Deployed at https://lifeguessr.netlify.app/

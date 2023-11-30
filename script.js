@@ -24,7 +24,7 @@ function loadVideo(index) {
         overlay.style.display = "flex";
         setTimeout(() => {
             overlay.style.display = "none";
-        }, 4000); // Hide for a few seconds so that overlay is not reveled
+        }, 4500); // Hide for a few seconds so that overlay is not reveled
 
         document.getElementById("video-frame").src = videoURLWithSettings;
         document.getElementById("info-panel").style.display = "none";
