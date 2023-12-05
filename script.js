@@ -31,6 +31,8 @@ function loadVideo(index) {
     } else {
         console.error('Video index out of range');
     }
+
+    document.getElementById("video-index-input").value = index;
 }
 
 
@@ -56,4 +58,15 @@ document.getElementById("reveal-button").addEventListener("click", function() {
 document.getElementById("next-button").addEventListener("click", function() {
     currentVideoIndex = (currentVideoIndex + 1) % videos.length;
     loadVideo(currentVideoIndex);
+});
+
+
+document.getElementById("go-button").addEventListener("click", function() {
+    const inputIndex = parseInt(document.getElementById("video-index-input").value);
+    if (!isNaN(inputIndex) && inputIndex >= 0 && inputIndex < videos.length) {
+        currentVideoIndex = inputIndex;
+        loadVideo(currentVideoIndex);
+    } else {
+        alert("Invalid video index");
+    }
 });
