@@ -8,6 +8,46 @@
         "notes":null
     },
     {
+        "url":"https:\/\/www.youtube.com\/embed\/7j-fLioLRG8",
+        "start":0,
+        "organism":"Urechis unicinctus",
+        "ncbiTaxonId":6432,
+        "ncbiTaxonString":"Metazoa; Eumetazoa; Bilateria; Protostomia; Spiralia; Lophotrochozoa; Annelida; Polychaeta; Echiura; Xenopneusta; Urechidae; Urechis",
+        "notes":null
+    }, 
+    {
+        "url":"https:\/\/www.youtube.com\/embed\/XMoP_47575c",
+        "start":0,
+        "organism":"Leucochloridium paradoxum",
+        "ncbiTaxonId":997265,
+        "ncbiTaxonString":"Metazoa; Eumetazoa; Bilateria; Protostomia; Spiralia; Lophotrochozoa; Platyhelminthes; Trematoda; Digenea; Diplostomida; Brachylaimoidea; Leucochloridiidae; Leucochloridium",
+        "notes":"Parasitizing a snail"
+    },
+    {
+        "url":"https:\/\/www.youtube.com\/embed\/P8W78iQyEuQM",
+        "start":0,
+        "organism":"Clione",
+        "ncbiTaxonId":71515,
+        "ncbiTaxonString":"Metazoa; Eumetazoa; Bilateria; Protostomia; Spiralia; Lophotrochozoa; Mollusca; Gastropoda; Heterobranchia; Euthyneura; Tectipleura; Pteropoda; Gymnosomata; Clionidae",
+        "notes":null
+    },
+    {
+        "url":"https:\/\/www.youtube.com\/embed\/gr1ps0ooDhU",
+        "start":0,
+        "organism":"Physalia",
+        "ncbiTaxonId":168774,
+        "ncbiTaxonString":"Metazoa; Eumetazoa; Cnidaria; Hydrozoa; Hydroidolina; Siphonophorae; Cystonectae; Physaliidae",
+        "notes":null
+    },
+    {
+        "url":"https:\/\/www.youtube.com\/embed\/obIsEkFQDPQ",
+        "start":0,
+        "organism":"Salpidae",
+        "ncbiTaxonId":34759,
+        "ncbiTaxonString":"Metazoa; Eumetazoa; Bilateria; Deuterostomia; Chordata; Tunicata; Thaliacea; Salpida",
+        "notes":""
+    },
+    {
         "url":"https:\/\/www.youtube.com\/embed\/sVjCIH4128g",
         "start":0,
         "organism":"Amathia verticillata",
@@ -29,6 +69,14 @@
         "organism":"Beroe",
         "ncbiTaxonId":10199,
         "ncbiTaxonString":"Metazoa; Eumetazoa; Ctenophora; Nuda; Beroida; Beroidae",
+        "notes":null
+    },
+    {
+        "url":"https:\/\/www.youtube.com\/embed\/Lbg-tQ6FJgQ",
+        "start":0,
+        "organism":"Asteroidea",
+        "ncbiTaxonId":7588,
+        "ncbiTaxonString":"Metazoa; Eumetazoa; Bilateria; Deuterostomia; Echinodermata; Eleutherozoa; Asterozoa",
         "notes":null
     },
     {
@@ -64,12 +112,12 @@
         "notes":null
     },
     {
-        "url":"https:\/\/www.youtube.com\/embed\/8SEr74XEUkM",
+        "url":"https:\/\/www.youtube.com\/embed\/KMyZQZ7hhQg",
         "start":0,
-        "organism":"Stygiomedusa gigantea",
-        "ncbiTaxonId":2939586,
-        "ncbiTaxonString":"Metazoa; Eumetazoa; Cnidaria; Scyphozoa; Semaeostomeae; Ulmaridae; Stygiomedusa",
-        "notes":null
+        "organism":"Holotheria",
+        "ncbiTaxonId":7684,
+        "ncbiTaxonString":"Metazoa; Eumetazoa; Bilateria; Deuterostomia; Echinodermata; Eleutherozoa; Echinozoa; Holothuroidea",
+        "notes":""
     },
     {
         "url":"https:\/\/www.youtube.com\/embed\/8SEr74XEUkM",
@@ -120,12 +168,28 @@
         "notes":null
     },
     {
+        "url":"https:\/\/www.youtube.com\/embed\/hsBVvlJjNtc",
+        "start":20,
+        "organism":"Ensis",
+        "ncbiTaxonId":6586,
+        "ncbiTaxonString":"Metazoa; Eumetazoa; Bilateria; Protostomia; Spiralia; Lophotrochozoa; Mollusca; Bivalvia; Autobranchia; Heteroconchia; Euheterodonta; Imparidentia; Adapedonta; Solenoidea; Pharidae",
+        "notes":"razor clam"
+    },
+    {
         "url":"https:\/\/www.youtube.com\/embed\/SZbZPUO-5xw",
         "start":0,
         "organism":"Achelata",
         "ncbiTaxonId":6730,
         "ncbiTaxonString":null,
         "notes":"Phyllosoma larva (larvae)"
+    },
+    {
+        "url":"https:\/\/www.youtube.com\/embed\/p-gLQYAM46s",
+        "start":0,
+        "organism":"Spatangoida",
+        "ncbiTaxonId":41317,
+        "ncbiTaxonString":"Metazoa; Eumetazoa; Bilateria; Deuterostomia; Echinodermata; Eleutherozoa; Echinozoa; Echinoidea; Euechinoidea; Atelostomata",
+        "notes":"Heart urchin"
     },
     {
         "url":"https:\/\/www.youtube.com\/embed\/e8jM94pNssc",
